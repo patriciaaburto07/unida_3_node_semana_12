@@ -21,9 +21,15 @@ src/
 ------logger.js
  # 4.- creacion de logger.js
  creamos el puente de la aplicacion.
- 
+
  logger.js
  # 5.- creacion de una ruta
+ crearemos un usuario con datos parseados (meterlos a la mala) en la ruta 
+ La ruta la usaremos para manejar las URL
+ 
  users.js
  # 6.- creacion de main
+ definimos el cerebro de la aplicacion 
+
    app.js
+   
